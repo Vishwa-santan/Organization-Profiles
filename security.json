@@ -1,0 +1,283 @@
+{
+ "company_name": "Cisco Systems, Inc.",
+ "headquarters": "San Jose, California, U.S.",
+ "jurisdiction": "U.S.",
+ "industry_sector": "Networking Hardware, Networking Software, Prepackaged Software, Software Publishers, Computer Terminal and Other Computer Peripheral Equipment Manufacturing, Computer Systems Design Services",
+ "digital_assets": [
+  {
+   "asset_type": "networking hardware",
+   "identifier": "Cisco routers, switches, wireless access points"
+  },
+  {
+   "asset_type": "networking software",
+   "identifier": "Cisco IOS, IOS XE, NX-OS"
+  },
+  {
+   "asset_type": "telecommunications equipment",
+   "identifier": "Various telecommunications products"
+  },
+  {
+   "asset_type": "collaboration platform",
+   "identifier": "Webex"
+  },
+  {
+   "asset_type": "DNS security",
+   "identifier": "OpenDNS"
+  },
+  {
+   "asset_type": "messaging and conferencing",
+   "identifier": "Jabber"
+  },
+  {
+   "asset_type": "multi-factor authentication",
+   "identifier": "Duo Security"
+  },
+  {
+   "asset_type": "networking silicon",
+   "identifier": "Silicon One (P200 chip)"
+  },
+  {
+   "asset_type": "IoT connectivity management",
+   "identifier": "Jasper"
+  },
+  {
+   "asset_type": "account management platform",
+   "identifier": "Cisco Smart Accounts"
+  },
+  {
+   "asset_type": "software licensing and management",
+   "identifier": "Cisco Software"
+  },
+  {
+   "asset_type": "IoT sensors for indoor IT facilities",
+   "identifier": "Meraki MT Sensors"
+  },
+  {
+   "asset_type": "IoT solution for OT assets",
+   "identifier": "Cisco Industrial Asset Vision"
+  },
+  {
+   "asset_type": "routing system for AI data centers",
+   "identifier": "Cisco 8223 routing system"
+  },
+  {
+   "asset_type": "security platform",
+   "identifier": "Cisco Security Cloud"
+  },
+  {
+   "asset_type": "network intelligence platform",
+   "identifier": "ThousandEyes"
+  },
+  {
+   "asset_type": "application performance monitoring",
+   "identifier": "AppDynamics"
+  },
+  {
+   "asset_type": "extended detection and response platform",
+   "identifier": "Cisco SecureX"
+  }
+ ],
+ "security_leadership": {
+  "ciso_name": "Steve Martino (SVP and Chief Information Security Officer)",
+  "reporting_structure": "The Chief Security and Trust Officer reports to the Executive Vice President, Operations. The Board of Directors oversees cybersecurity risks directly and through its Audit Committee.",
+  "risk_oversight": "The Board of Directors oversees cybersecurity risks directly and through its Audit Committee. The Audit Committee receives regular reports on cybersecurity risks, priorities, and focus areas from the Chief Security and Trust Officer at least four times a year, with live presentations at least twice a year. The Board also receives updates from the Audit Committee and directly from the Chief Security and Trust Officer if necessary due to an incident."
+ },
+ "adopted_frameworks": [
+  {
+   "name": "NIST Cybersecurity Framework (CSF)",
+   "description": "Utilized for managing cybersecurity risks and referencing existing best practices across its Core functions: Identify, Protect, Detect, Respond, and Recover."
+  },
+  {
+   "name": "ISO/IEC 27000-series",
+   "description": "Referenced for information security management standards."
+  },
+  {
+   "name": "CIS Critical Security Controls",
+   "description": "Referenced as a set of best practices for cybersecurity."
+  },
+  {
+   "name": "COBIT 5",
+   "description": "Referenced as a framework for IT governance and management."
+  }
+ ],
+ "certifications": [
+  {
+   "name": "ISO/IEC 27001:2022",
+   "status": "Active (valid from 2024-07-17 to 2027-07-16)",
+   "issuing_body": "MSECB, Cisco (self-attested global coverage for all services worldwide). The specific certification is for Cisco Spaces Platform by MSECB, but Cisco states global coverage for all services worldwide for ISO 27001."
+  },
+  {
+   "name": "SOC 2 Type II",
+   "status": "Active",
+   "issuing_body": "AICPA (audited by independent third-party firm)"
+  },
+  {
+   "name": "EU-U.S. Data Privacy Framework (EU-U.S. DPF)",
+   "status": "Active",
+   "issuing_body": "U.S. Department of Commerce"
+  },
+  {
+   "name": "U.K. Extension to the EU-U.S. DPF",
+   "status": "Active",
+   "issuing_body": "U.S. Department of Commerce"
+  },
+  {
+   "name": "Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF)",
+   "status": "Active",
+   "issuing_body": "U.S. Department of Commerce"
+  },
+  {
+   "name": "APEC Cross Border Privacy Rules (CBPR) System",
+   "status": "Active",
+   "issuing_body": "BBB National Programs (Accountability Agent)"
+  },
+  {
+   "name": "SOC 2 Type II (ThousandEyes)",
+   "status": "Active",
+   "issuing_body": "AICPA (audited by Schellman)"
+  },
+  {
+   "name": "TRUSTe Trusted Cloud and Privacy Certifications (ThousandEyes)",
+   "status": "Active",
+   "issuing_body": "TRUSTe"
+  },
+  {
+   "name": "ISO 27001 (ThousandEyes)",
+   "status": "Active",
+   "issuing_body": "N/A (Cisco states adherence for ThousandEyes)"
+  },
+  {
+   "name": "ISO 27017 (ThousandEyes)",
+   "status": "Active",
+   "issuing_body": "N/A (Cisco states adherence for ThousandEyes)"
+  },
+  {
+   "name": "ISO 27018 (ThousandEyes)",
+   "status": "Active",
+   "issuing_body": "N/A (Cisco states adherence for ThousandEyes)"
+  },
+  {
+   "name": "ISO 27701 (ThousandEyes)",
+   "status": "Active",
+   "issuing_body": "N/A (Cisco states adherence for ThousandEyes)"
+  },
+  {
+   "name": "ISO 22301 (ThousandEyes)",
+   "status": "Active",
+   "issuing_body": "N/A (Cisco states adherence for ThousandEyes)"
+  },
+  {
+   "name": "AICPA SOC (ThousandEyes)",
+   "status": "Active",
+   "issuing_body": "AICPA"
+  },
+  {
+   "name": "CSA STAR (ThousandEyes)",
+   "status": "Active",
+   "issuing_body": "Cloud Security Alliance"
+  },
+  {
+   "name": "EU Cloud Code of Conduct Level 3 (ThousandEyes)",
+   "status": "Active",
+   "issuing_body": "N/A (Cisco states adherence for ThousandEyes)"
+  },
+  {
+   "name": "ENS - Esquema Nacional de Seguridad High (311/2022) (ThousandEyes)",
+   "status": "Active",
+   "issuing_body": "Spanish National Security Framework"
+  },
+  {
+   "name": "TX-RAMP Certified (ThousandEyes)",
+   "status": "Active",
+   "issuing_body": "Texas Risk and Authorization Management Program"
+  }
+ ],
+ "security_posture": {
+  "governance_and_policy": "Cisco's security is overseen by the Board of Directors and its Audit Committee, with cybersecurity risks integrated into an enterprise risk management program via internal audits. A global privacy program assesses and manages privacy risks. The company emphasizes Zero Trust principles, robust data governance (including data classification and monitoring for compliance), and comprehensive business continuity planning.",
+  "technical_controls": [
+   "Comprehensive Firewall Strategy (e.g., Hybrid Mesh Firewall)",
+   "Intrusion Prevention Systems (IPS)",
+   "Virtual Private Networks (VPNs)",
+   "Access Control Lists (ACLs)",
+   "Endpoint Detection and Response (Cisco XDR, Secure Endpoint)",
+   "Data Loss Prevention (Cisco Secure Email)",
+   "Multi-Factor Authentication (MFA) (Cisco Duo)",
+   "Identity and Access Management solutions (Cisco Identity Services Engine (ISE))",
+   "Network Segmentation (Cisco TrustSec, Stealthwatch)",
+   "Universal Zero Trust Network Access (ZTNA) solutions",
+   "Continuous Monitoring",
+   "Threat Intelligence (Cisco Talos Intelligence Group)",
+   "Industrial Threat Defense for Operational Technology (OT) systems"
+  ],
+  "iam_summary": "Cisco implements comprehensive security policy management with Cisco Identity Services Engine (ISE), enforces Multi-Factor Authentication (MFA) with Cisco Duo, and maintains strong password policies. Its solutions facilitate secure access and identity verification across hybrid environments.",
+  "incident_response_summary": "Cisco maintains a Product Security Incident Response Team (PSIRT) dedicated to detecting, analyzing, and mitigating security vulnerabilities. The Talos Intelligence Group provides world-class threat intelligence and incident response services. The Cisco XDR platform enhances threat detection, investigation, and rapid response capabilities across the organization's digital environment.",
+  "third_party_risk_management": "Cisco operates programs to identify and manage cybersecurity risks from third-party suppliers and service providers. These programs involve ongoing security-focused risk assessments based on industry best practices, audits, and contractual requirements to ensure supply chain security.",
+  "privacy_and_compliance_alignment": [
+   "EU-U.S. Data Privacy Framework (EU-U.S. DPF)",
+   "U.K. Extension to the EU-U.S. DPF",
+   "Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF)",
+   "APEC Cross Border Privacy Rules System",
+   "General Data Protection Regulation (GDPR) (supported by Cisco Webex App)"
+  ]
+ },
+ "historical_incidents": [
+  {
+   "incident_date": "2024-04-01",
+   "incident_type": "Data Breach (Vulnerabilities in ASA and IOS XE)",
+   "summary": "A data breach in April 2024 involved the group 'UAT4356' exploiting vulnerabilities in Cisco's Adaptive Security Appliances and IOS XE software, affecting various networks and compromising approximately 40,000 Cisco devices.",
+   "source": "Twingate"
+  },
+  {
+   "incident_date": "2023-10-01",
+   "incident_type": "Device Compromise (Unpatched Vulnerability)",
+   "summary": "In October 2023, numerous Cisco devices running Cisco software were compromised due to an unpatched vulnerability, primarily affecting telecommunications companies in the U.S.",
+   "source": "Twingate"
+  },
+  {
+   "incident_date": "2025-07-24",
+   "incident_type": "Data Breach (Vishing Attack)",
+   "summary": "On July 24, 2025, Cisco experienced a data breach stemming from a voice phishing ('vishing') scheme that tricked a Cisco representative into granting access to a third-party cloud-based Customer Relationship Management (CRM) system. Basic user profile information was stolen.",
+   "source": "Bleeping Computer (referenced by news reports)"
+  },
+  {
+   "incident_date": "2024-10-14",
+   "incident_type": "Data Leak (Threat Actor 'IntelBroker')",
+   "summary": "Around October 14, 2024, threat actor 'IntelBroker' (collaborating with 'EnergyWeaponUser' and 'zjj') claimed responsibility for a data leak involving a wide range of Cisco's sensitive information, including GitHub/GitLab projects, source code, hardcoded credentials, certificates, and confidential documents. This incident impacted over 800 B2B clients.",
+   "source": "CYFIRMA (BreachForum)"
+  },
+  {
+   "incident_date": "2022-05-24",
+   "incident_type": "Data Breach (Social Engineering/Ransomware Group)",
+   "summary": "A significant data breach confirmed by Cisco on August 10, 2022, began on May 24, 2022. It involved the Yanluo Wang ransomware threat group and exploited credential compromise via social engineering (voice and SMS phishing). No sensitive data was reportedly stolen, but pre-ransomware activities were detected.",
+   "source": "Cisco (public acknowledgment), Res-Q-Rity"
+  }
+ ],
+ "compliance_history": [
+  {
+   "finding_date": "2019-08-01",
+   "authority": "Coalition of 19 U.S. State Attorneys General (led by New York State)",
+   "summary": "Cisco Systems reached an $8.6 million multistate settlement to resolve allegations it knowingly sold video surveillance software with critical security vulnerabilities to federal, state, and local government agencies. The allegations arose from a whistleblower lawsuit under the False Claims Act."
+  },
+  {
+   "finding_date": "2016-09-09",
+   "authority": "U.S. Securities and Exchange Commission (SEC) and U.S. Department of Justice (DOJ)",
+   "summary": "Cisco obtained declinations from the DOJ and SEC in investigations into potential breaches of the Foreign Corrupt Practices Act (FCPA) related to business activities in Russia and other Commonwealth of Independent States. No enforcement actions were brought."
+  },
+  {
+   "finding_date": "2023-01-01",
+   "authority": "U.S. Court of Appeals (later referred to Supreme Court)",
+   "summary": "A U.S. Appeals Court affirmed a 2023 decision that aiding and abetting liability under U.S. law can apply to technology companies providing surveillance systems used to facilitate human rights abuses. This related to allegations that Cisco helped China build a surveillance system to track and persecute Falun Gong practitioners. Cisco has filed a petition asking the U.S. Supreme Court to review this ruling as of February 2025."
+  }
+ ],
+ "risk_assessment": {
+  "maturity_summary": "Cisco demonstrates high security maturity through substantial cybersecurity investments, proactive threat intelligence (Cisco Talos), and a strategic shift towards unified security platforms. Its commitment to embedding security into product lifecycles (CSDL) and robust third-party risk management further highlight a mature approach. However, several reported data breaches, some involving advanced social engineering or vulnerabilities in its products, indicate ongoing challenges in maintaining a flawless security posture in an evolving threat landscape.",
+  "forward_looking_posture": "Cisco is strategically focused on the AI era, aiming to secure AI infrastructure and leverage AI for enhanced security. This includes innovating with solutions like AgenticOps, Hybrid Mesh Firewall, Universal Zero Trust Network Access, and their Cisco Security Cloud platform. The significant acquisition of Splunk further strengthens Cisco's capabilities in advanced networking, security, and AI, demonstrating a commitment to integrated, cloud-delivered, and AI-powered security for future threats.",
+  "recommendations": [
+   "Continue to embed AI across its product portfolio for advanced threat detection and response.",
+   "Further strengthen interoperability and integration between its security solutions, particularly following the Splunk acquisition, to enhance unified visibility and automated responses.",
+   "Simplify security posture management and policy enforcement across hybrid and multi-cloud environments.",
+   "Sustain and expand investment in threat intelligence and proactive incident response capabilities through the Talos Intelligence Group and XDR platform.",
+   "Reinforce internal best practices for secure product development and configuration guidance, addressing common vulnerabilities like legacy features (e.g., Smart Install) and promoting strong password types in its offerings."
+  ]
+ }
+}
