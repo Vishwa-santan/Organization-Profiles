@@ -1,8 +1,8 @@
 {
-  "business-profile": {
-    "insight": "Cisco Systems is a global digital communications technology conglomerate evolving from a hardware-centric model to a software- and subscription-led entity, with a strong focus on secure, intelligent networking, cybersecurity, collaboration, and AI-driven solutions for diverse customer segments worldwide.",
-    "company-name": "Cisco Systems, Inc.",
-    "sic-code": [
+  "business_profile": {
+    "insight": "Cisco Systems is a global digital communications technology conglomerate evolving from a hardware_centric model to a software_ and subscription_led entity, with a strong focus on secure, intelligent networking, cybersecurity, collaboration, and AI_driven solutions for diverse customer segments worldwide.",
+    "company_name": "Cisco Systems, Inc.",
+    "sic_code": [
       {
         "code": "7372",
         "description": "Prepackaged Software"
@@ -12,7 +12,7 @@
         "description": "Computer Communications Equipment"
       }
     ],
-    "naics-codes": [
+    "naics_codes": [
       {
         "code": "511210",
         "description": "Software Publishers"
@@ -26,7 +26,7 @@
         "description": "Other Computer Related Services"
       }
     ],
-    "primary-customer-segments": [
+    "primary_customer_segments": [
       {
         "segment": "Large Enterprises",
         "description": "Global organizations with multiple locations requiring robust and scalable IT infrastructure and security solutions.",
@@ -44,17 +44,17 @@
       },
       {
         "segment": "Service Providers & Cloud",
-        "description": "Telecommunications companies and cloud providers needing networking hardware and software to deliver high-quality services.",
-        "needs_driver": "High-quality service delivery, core network reinvestment (especially for AI connectivity), cloud infrastructure, high-speed connectivity, scalability, network virtualization."
+        "description": "Telecommunications companies and cloud providers needing networking hardware and software to deliver high_quality services.",
+        "needs_driver": "High_quality service delivery, core network reinvestment (especially for AI connectivity), cloud infrastructure, high_speed connectivity, scalability, network virtualization."
       }
     ],
-    "market-segments": [
+    "market_segments": [
       {
         "name": "Networking (Secure, Agile Networks)",
         "description": "Cisco's foundational market, encompassing routers, switches, wireless systems, and related software for enterprise and service provider networks, including campus, data center, and industrial IoT."
       },
       {
-        "name": "Security (End-to-End Security)",
+        "name": "Security (End_to_End Security)",
         "description": "Solutions protecting networks, cloud services, industrial systems, and user devices from cyber threats, including firewalls, intrusion detection, advanced threat protection, and identity services."
       },
       {
@@ -63,7 +63,7 @@
       },
       {
         "name": "Data Center and Cloud",
-        "description": "Solutions for modern data centers and hybrid/multi-cloud environments, including unified computing, unified fabric, data center switching, storage networking, and cloud-managed infrastructure."
+        "description": "Solutions for modern data centers and hybrid/multi_cloud environments, including unified computing, unified fabric, data center switching, storage networking, and cloud_managed infrastructure."
       },
       {
         "name": "Internet of Things (IoT)",
@@ -71,25 +71,25 @@
       },
       {
         "name": "Observability and Optimized Application Experiences",
-        "description": "Full-stack observability and cloud-native platform offerings to provide end-to-end visibility, performance monitoring, and real-time insights across applications, networks, and multi-cloud infrastructures."
+        "description": "Full_stack observability and cloud_native platform offerings to provide end_to_end visibility, performance monitoring, and real_time insights across applications, networks, and multi_cloud infrastructures."
       }
     ],
-    "key-market-drivers": [
+    "key_market_drivers": [
       {
         "driver": "Digital Transformation Initiatives",
         "impact": "Enterprises are heavily investing in networking infrastructure to support their digital transformation, driving demand for routers, switches, and wireless access points."
       },
       {
-        "driver": "Increasing Adoption of Cloud-Based Solutions",
-        "impact": "The shift of applications and data to the cloud necessitates increased demand for Cisco hardware and software to support these services and hybrid/multi-cloud environments."
+        "driver": "Increasing Adoption of Cloud_Based Solutions",
+        "impact": "The shift of applications and data to the cloud necessitates increased demand for Cisco hardware and software to support these services and hybrid/multi_cloud environments."
       },
       {
-        "driver": "Growth of Software-Defined Networking (SDN) and Network Virtualization",
+        "driver": "Growth of Software_Defined Networking (SDN) and Network Virtualization",
         "impact": "The increasing prevalence of SDN and network virtualization technologies drives demand for Cisco's adaptable networking hardware and software."
       },
       {
         "driver": "Rising Cybersecurity Concerns",
-        "impact": "The escalating threat of cyberattacks fuels demand for Cisco's comprehensive hardware-based security solutions, software, and integrated security platforms."
+        "impact": "The escalating threat of cyberattacks fuels demand for Cisco's comprehensive hardware_based security solutions, software, and integrated security platforms."
       },
       {
         "driver": "Expansion of IoT and Edge Computing",
@@ -97,14 +97,14 @@
       },
       {
         "driver": "Rollout of 5G Networks",
-        "impact": "The deployment of 5G networks drives demand for next-generation networking devices that deliver enhanced performance and scalability."
+        "impact": "The deployment of 5G networks drives demand for next_generation networking devices that deliver enhanced performance and scalability."
       },
       {
         "driver": "Artificial Intelligence (AI) Integration",
-        "impact": "The growing demand for AI-driven solutions necessitates AI-ready network infrastructure capable of handling large-scale machine learning and AI model training, leading to new opportunities for Cisco in AI infrastructure, connectivity, and inference."
+        "impact": "The growing demand for AI_driven solutions necessitates AI_ready network infrastructure capable of handling large_scale machine learning and AI model training, leading to new opportunities for Cisco in AI infrastructure, connectivity, and inference."
       }
     ],
-    "value-proposition": [
+    "value_proposition": [
       {
         "title": "Driving Business Outcomes",
         "description": "Cisco highlights how its technologies streamline operations, boost collaboration, and improve productivity and efficiency, enabling customers to focus on strategic initiatives rather than just technical features."
@@ -115,18 +115,18 @@
       },
       {
         "title": "Flexibility & Adaptability",
-        "description": "Through a focus on automation, cloud migration, and software-defined networking, Cisco champions flexibility, helping businesses adapt to dynamic market changes."
+        "description": "Through a focus on automation, cloud migration, and software_defined networking, Cisco champions flexibility, helping businesses adapt to dynamic market changes."
       },
       {
         "title": "Cost Efficiency",
-        "description": "Cisco's solutions deliver significant cost savings through energy-efficient data center solutions and reduced IT staff time, streamlining operations and focusing on financial benefits."
+        "description": "Cisco's solutions deliver significant cost savings through energy_efficient data center solutions and reduced IT staff time, streamlining operations and focusing on financial benefits."
       },
       {
         "title": "Comprehensive & Integrated Solutions",
-        "description": "Cisco provides secure and scalable networking, cybersecurity, collaboration, and data center solutions, complemented by industry-leading technical support and professional services, offering end-to-end support for critical IT priorities."
+        "description": "Cisco provides secure and scalable networking, cybersecurity, collaboration, and data center solutions, complemented by industry_leading technical support and professional services, offering end_to_end support for critical IT priorities."
       }
     ],
-    "go-to-market-strategy": [
+    "go_to_market_strategy": [
       {
         "channel": "Direct Sales Force",
         "approach": "Engaging directly with large enterprises and government clients to offer tailored solutions and strategic partnerships.",
@@ -134,51 +134,51 @@
       },
       {
         "channel": "Channel Partners",
-        "approach": "Leveraging an extensive global network of value-added resellers (VARs), system integrators, distributors, and service providers to extend market reach, particularly for SMBs.",
+        "approach": "Leveraging an extensive global network of value_added resellers (VARs), system integrators, distributors, and service providers to extend market reach, particularly for SMBs.",
         "messaging": "Emphasizing affordability, simplicity, flexibility, and business outcomes for SMBs; providing comprehensive training and marketing support for partners."
       },
       {
         "channel": "Online Sales & Digital Platforms",
-        "approach": "Utilizing Cisco's website and e-commerce platforms, along with digital marketing tactics like SEO, social media, and content marketing.",
+        "approach": "Utilizing Cisco's website and e_commerce platforms, along with digital marketing tactics like SEO, social media, and content marketing.",
         "messaging": "Enhancing brand visibility, educating potential customers through thought leadership, and reaching specific audiences with targeted campaigns."
       }
     ]
   },
-  "strategic-goals-and-objectives": {
-    "insight": "Cisco's strategic goals are centered on transforming into an 'AI-native orchestrator' with a platform-based approach that fuses security, telemetry, and silicon, driving growth through software and subscription services amidst a dynamic technology landscape.",
-    "summary": "Cisco aims to shape the future of the internet by creating unprecedented value for its stakeholders, moving towards a software and subscription-based business model. Key areas of focus include significant investments in Artificial Intelligence (AI) infrastructure, cybersecurity leadership, and comprehensive cloud-delivered solutions. The company is committed to continuous innovation in networking, security, and collaboration, and to fostering an inclusive and sustainable future for all.",
-    "alignment-analysis": {
-      "market-opportunities": "Cisco's goals are strongly aligned with current market opportunities, particularly the surging demand for AI infrastructure, cloud computing services, 5G network rollouts, and ongoing digital transformation initiatives across industries. The company's pivot to a software and subscription model, reinforced by strategic acquisitions like Splunk, directly addresses the market's need for integrated security, observability, and AI-driven solutions, leading to predictable revenue streams. Furthermore, the impending Campus upgrade and refresh cycle with next-generation Catalyst switches presents a significant revenue acceleration opportunity.",
+  "strategic_goals_and_objectives": {
+    "insight": "Cisco's strategic goals are centered on transforming into an 'AI_native orchestrator' with a platform_based approach that fuses security, telemetry, and silicon, driving growth through software and subscription services amidst a dynamic technology landscape.",
+    "summary": "Cisco aims to shape the future of the internet by creating unprecedented value for its stakeholders, moving towards a software and subscription_based business model. Key areas of focus include significant investments in Artificial Intelligence (AI) infrastructure, cybersecurity leadership, and comprehensive cloud_delivered solutions. The company is committed to continuous innovation in networking, security, and collaboration, and to fostering an inclusive and sustainable future for all.",
+    "alignment_analysis": {
+      "market_opportunities": "Cisco's goals are strongly aligned with current market opportunities, particularly the surging demand for AI infrastructure, cloud computing services, 5G network rollouts, and ongoing digital transformation initiatives across industries. The company's pivot to a software and subscription model, reinforced by strategic acquisitions like Splunk, directly addresses the market's need for integrated security, observability, and AI_driven solutions, leading to predictable revenue streams. Furthermore, the impending Campus upgrade and refresh cycle with next_generation Catalyst switches presents a significant revenue acceleration opportunity.",
       "risks": "Cisco's goals face risks from intense competition from established players and emerging challengers, which can pressure prices and market share. A slowdown in new orders, potentially due to macroeconomic uncertainty or the absorption of previously backlogged orders, could impact revenue growth. Supply chain disruptions and the complexity of integrating diverse product portfolios also pose challenges. The rapidly evolving cybersecurity threat landscape requires continuous innovation to maintain leadership and effectively defend against sophisticated attacks."
     }
   },
-  "forward-looking-strategic-roadmap": {
-    "insight": "Cisco's forward-looking strategy prioritizes an AI-first approach, integrated security, and a robust software and subscription model to capitalize on digital transformation, while navigating competitive pressures and macroeconomic shifts.",
-    "market-opportunities-and-threats": {
+  "forward_looking_strategic_roadmap": {
+    "insight": "Cisco's forward_looking strategy prioritizes an AI_first approach, integrated security, and a robust software and subscription model to capitalize on digital transformation, while navigating competitive pressures and macroeconomic shifts.",
+    "market_opportunities_and_threats": {
       "opportunities": [
         {
           "title": "Surging AI Infrastructure Demand",
-          "description": "Significant demand for AI training infrastructure (e.g., for hyperscale customers), AI inference, and AI connectivity, driving orders for high-performance switches (like Cisco 8000 with Silicon One G200, Nexus 9000), AI servers, and integrated AI networking solutions."
+          "description": "Significant demand for AI training infrastructure (e.g., for hyperscale customers), AI inference, and AI connectivity, driving orders for high_performance switches (like Cisco 8000 with Silicon One G200, Nexus 9000), AI servers, and integrated AI networking solutions."
         },
         {
           "title": "Accelerated Cloud Adoption",
-          "description": "Enterprises continue to shift applications and data to hybrid and multi-cloud environments, increasing demand for Cisco's cloud-delivered solutions and secure connectivity."
+          "description": "Enterprises continue to shift applications and data to hybrid and multi_cloud environments, increasing demand for Cisco's cloud_delivered solutions and secure connectivity."
         },
         {
           "title": "5G Network Rollouts and Edge Computing",
-          "description": "Expansion of 5G infrastructure and edge computing creates demand for next-generation networking devices with enhanced performance and scalability."
+          "description": "Expansion of 5G infrastructure and edge computing creates demand for next_generation networking devices with enhanced performance and scalability."
         },
         {
           "title": "Digital Transformation Initiatives",
           "description": "Ongoing enterprise investment in networking solutions to support digital transformation, driving demand for routers, switches, and wireless access points."
         },
         {
-          "title": "Next-Generation Campus Network Upgrades",
-          "description": "A revenue acceleration opportunity driven by an anticipated campus upgrade and refresh cycle, with the launch and adoption of next-generation Catalyst switch series (e.g., Catalyst-2026)."
+          "title": "Next_Generation Campus Network Upgrades",
+          "description": "A revenue acceleration opportunity driven by an anticipated campus upgrade and refresh cycle, with the launch and adoption of next_generation Catalyst switch series (e.g., Catalyst_2026)."
         },
         {
           "title": "Expanding Software and Subscription Revenue Model",
-          "description": "Continued growth in software and subscription-based services, offering more predictable and resilient income streams, bolstered by strategic acquisitions."
+          "description": "Continued growth in software and subscription_based services, offering more predictable and resilient income streams, bolstered by strategic acquisitions."
         },
         {
           "title": "Strong Cybersecurity Market Growth",
@@ -212,95 +212,95 @@
         }
       ]
     },
-    "competitive-positioning": "Cisco maintains a commanding position in the enterprise networking market, holding a dominant market share (e.g., 76.22% in Q1 2025). Its competitive advantage stems from a strong brand reputation, extensive product portfolio across hardware, software, and services, and a vast global presence with a network of partners. Cisco heavily invests in R&D to stay at the forefront of technological advancements, particularly in integrating security, telemetry, and silicon into an 'AI-native orchestrator' platform. This platformization strategy, unifying networking, security, and observability, offers a compelling value proposition by emphasizing business outcomes and risk mitigation. While facing intense competition from players like Arista Networks, Juniper Networks, and Huawei, Cisco's strategic shift to recurring software revenue and its strong financial health (e.g., lower debt-to-equity ratio compared to peers) position it for sustained growth.",
-    "strategic-priorities": {
-      "short-term": [
+    "competitive_positioning": "Cisco maintains a commanding position in the enterprise networking market, holding a dominant market share (e.g., 76.22% in Q1 2025). Its competitive advantage stems from a strong brand reputation, extensive product portfolio across hardware, software, and services, and a vast global presence with a network of partners. Cisco heavily invests in R&D to stay at the forefront of technological advancements, particularly in integrating security, telemetry, and silicon into an 'AI_native orchestrator' platform. This platformization strategy, unifying networking, security, and observability, offers a compelling value proposition by emphasizing business outcomes and risk mitigation. While facing intense competition from players like Arista Networks, Juniper Networks, and Huawei, Cisco's strategic shift to recurring software revenue and its strong financial health (e.g., lower debt_to_equity ratio compared to peers) position it for sustained growth.",
+    "strategic_priorities": {
+      "short_term": [
         {
           "term": "Accelerate Software and Subscription Growth",
-          "definition": "Increase recurring revenue streams by expanding software and cloud-delivered solutions, aiming for software to account for a significant portion of total revenue. This includes maximizing the value from recent acquisitions like Splunk."
+          "definition": "Increase recurring revenue streams by expanding software and cloud_delivered solutions, aiming for software to account for a significant portion of total revenue. This includes maximizing the value from recent acquisitions like Splunk."
         },
         {
-          "term": "Enhance AI-Driven Networking and Security",
+          "term": "Enhance AI_Driven Networking and Security",
           "definition": "Invest in AI network products and deepen collaborations (e.g., with Nvidia) to support AI training infrastructure for hyperscalers, AI inference, enterprise AI clouds, and AI network connectivity. Integrate AI into security offerings like Hypershield for autonomous threat protection."
         },
         {
           "term": "Simplify Data Center Operations",
-          "definition": "Prioritize infrastructure that minimizes IT complexities, supports hybrid/multi-cloud environments, and accelerates AI-ready storage, compute, and networking architectures through automation and unified management tools."
+          "definition": "Prioritize infrastructure that minimizes IT complexities, supports hybrid/multi_cloud environments, and accelerates AI_ready storage, compute, and networking architectures through automation and unified management tools."
         }
       ],
-      "medium-term": [
+      "medium_term": [
         {
-          "term": "Drive Next-Generation Campus Network Adoption",
-          "definition": "Capitalize on the Campus upgrade and refresh cycle by launching and ensuring rapid adoption of next-generation Catalyst switch series (e.g., Catalyst-2026), focusing on ASP uplift and market penetration."
+          "term": "Drive Next_Generation Campus Network Adoption",
+          "definition": "Capitalize on the Campus upgrade and refresh cycle by launching and ensuring rapid adoption of next_generation Catalyst switch series (e.g., Catalyst_2026), focusing on ASP uplift and market penetration."
         },
         {
-          "term": "Strengthen End-to-End Security Portfolio",
-          "definition": "Continue to develop and integrate advanced security technologies across the portfolio, especially post-Splunk acquisition, focusing on zero-trust models, full network visibility, and advanced threat containment for distributed data centers and hybrid work environments."
+          "term": "Strengthen End_to_End Security Portfolio",
+          "definition": "Continue to develop and integrate advanced security technologies across the portfolio, especially post_Splunk acquisition, focusing on zero_trust models, full network visibility, and advanced threat containment for distributed data centers and hybrid work environments."
         },
         {
           "term": "Expand into Emerging Markets and Technologies",
           "definition": "Explore opportunities in artificial intelligence, machine learning, 5G, quantum computing, and emerging geographic markets (e.g., India) to drive innovation and diversify revenue streams."
         }
       ],
-      "long-term": [
+      "long_term": [
         {
-          "term": "Become an AI-Native Orchestrator",
-          "definition": "Transform Cisco into a leading 'AI-native orchestrator' that seamlessly fuses security, telemetry, and silicon across all networking, security, and observability solutions to enable intelligent and autonomous IT environments."
+          "term": "Become an AI_Native Orchestrator",
+          "definition": "Transform Cisco into a leading 'AI_native orchestrator' that seamlessly fuses security, telemetry, and silicon across all networking, security, and observability solutions to enable intelligent and autonomous IT environments."
         },
         {
           "term": "Power an Inclusive and Sustainable Future",
-          "definition": "Leverage technology to create opportunities and positive outcomes for everyone, focusing on connecting the unconnected, securing networks, automating infrastructure, and driving economic growth while committing to net-zero greenhouse gas emissions by 2040."
+          "definition": "Leverage technology to create opportunities and positive outcomes for everyone, focusing on connecting the unconnected, securing networks, automating infrastructure, and driving economic growth while committing to net_zero greenhouse gas emissions by 2040."
         },
         {
           "term": "Deepen Customer Intimacy through Platformization",
-          "definition": "Continue to evolve the go-to-market strategy to be more customer-centric, offering integrated, platform-based solutions across networking, security, and observability to meet evolving customer needs and build long-term relationships."
+          "definition": "Continue to evolve the go_to_market strategy to be more customer_centric, offering integrated, platform_based solutions across networking, security, and observability to meet evolving customer needs and build long_term relationships."
         }
       ]
     },
-    "key-initiatives": [
+    "key_initiatives": [
       {
         "title": "Splunk Integration",
-        "initiative": "Seamless integration of Splunk's cybersecurity and observability software into Cisco's existing product portfolio, particularly with AppDynamics, to unify visibility and improve performance troubleshooting across on-premises and cloud environments.",
+        "initiative": "Seamless integration of Splunk's cybersecurity and observability software into Cisco's existing product portfolio, particularly with AppDynamics, to unify visibility and improve performance troubleshooting across on_premises and cloud environments.",
         "objective": "To strengthen Cisco's competitive position in the software and analytics space, enhance recurring revenue, and offer comprehensive cybersecurity and observability solutions.",
         "actionable_steps": [
           "Integrate Splunk's technology into AppDynamics for unified visibility and performance troubleshooting.",
           "Roll out Splunk on major cloud platforms like Microsoft Azure to expand reach and accessibility.",
-          "Leverage Splunk's capabilities to bolster zero-trust and XDR offerings within the security segment."
+          "Leverage Splunk's capabilities to bolster zero_trust and XDR offerings within the security segment."
         ]
       },
       {
         "title": "Hypershield Development and Deployment",
-        "initiative": "Launch and continuous development of Hypershield, an AI-based self-upgrading security fabric, designed to protect distributed applications, devices, and data.",
+        "initiative": "Launch and continuous development of Hypershield, an AI_based self_upgrading security fabric, designed to protect distributed applications, devices, and data.",
         "objective": "To provide rapid vulnerability protection and enable autonomous network segmentation in response to threats, enhancing enterprise security posture.",
         "actionable_steps": [
-          "Integrate Hypershield's AI-based software into network components such as switches, routers, and servers.",
+          "Integrate Hypershield's AI_based software into network components such as switches, routers, and servers.",
           "Promote Hypershield as a combined security and networking solution to accelerate its adoption."
         ]
       },
       {
-        "title": "AI-Driven Networking Hardware and Software",
+        "title": "AI_Driven Networking Hardware and Software",
         "initiative": "Investment and development in AI network products, including the Cisco Systems C885A M8 server based on Nvidia's HGX supercomputing platform, and enhancements to the Nexus 9000 data center switch line for 800G aggregation capabilities.",
         "objective": "To meet the demands of AI/ML architectures with high bandwidth, low latency, congestion management, and flow control, and to support AI training infrastructure for hyperscale enterprises and AI inference.",
         "actionable_steps": [
           "Deepen cooperation with Nvidia to integrate their GPU platforms into Cisco's AI servers and AI PODs.",
-          "Enhance Nexus 9000 series switches with advanced telemetry and AI/ML-specific features."
+          "Enhance Nexus 9000 series switches with advanced telemetry and AI/ML_specific features."
         ]
       },
       {
         "title": "Meraki Campus Network Project",
         "initiative": "Continued development and streamlining of the Meraki campus network project.",
-        "objective": "To offer simplified, integrated network and security solutions with flexible consumption patterns, increasing enterprise scalability and competing effectively with rivals in cloud-managed networking.",
+        "objective": "To offer simplified, integrated network and security solutions with flexible consumption patterns, increasing enterprise scalability and competing effectively with rivals in cloud_managed networking.",
         "actionable_steps": [
           "Focus on delivering a unified and simplified management experience for campus networks.",
           "Integrate Meraki MX devices with tools like ThousandEyes for enhanced troubleshooting capabilities for remote workers."
         ]
       },
       {
-        "title": "Next-Generation Catalyst Switch Series Launch (Catalyst-2026)",
-        "initiative": "Launch of the next-generation Catalyst switch series (expected commercially available in 2026) to drive a Campus upgrade and refresh cycle.",
+        "title": "Next_Generation Catalyst Switch Series Launch (Catalyst_2026)",
+        "initiative": "Launch of the next_generation Catalyst switch series (expected commercially available in 2026) to drive a Campus upgrade and refresh cycle.",
         "objective": "To achieve revenue acceleration through an Average Selling Price (ASP) uplift and faster adoption compared to previous generations, capturing increased market share in enterprise networking.",
         "actionable_steps": [
-          "Execute a comprehensive go-to-market strategy for the new Catalyst-2026 switches.",
+          "Execute a comprehensive go_to_market strategy for the new Catalyst_2026 switches.",
           "Provide robust training and support for partners and customers to facilitate rapid adoption."
         ]
       }
